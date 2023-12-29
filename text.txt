@@ -1,0 +1,41 @@
+* HOME
+home__social
+
+
+home__description
+
+
+* ABOUT
+about__description
+ 
+
+
+about__info-name
+Years <br> experience
+Completed <br> project
+
+
+
+* SERVICES
+services__modal-service
+
+Web page development.
+
+
+* PORTFOLIO
+portfolio__description
+
+
+
+* PROJECT
+project__description
+
+
+
+* TESTIMONIAL
+testimonial__description
+
+
+* FOOTER
+footer__social
+
